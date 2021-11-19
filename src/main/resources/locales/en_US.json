@@ -1,0 +1,11 @@
+{
+	"label": "Utility Functions",
+	"description": "Utility Functions for modifying, sorting, and manipulating data.",
+	"NumberRounding.label": "Number Rounding",
+	"NumberRounding.description": "Round a number to a set number of digits",
+	"NumberRounding.node_label": "{{inputNumber}} to {{digitsAfter}} decimal points",
+	"NumberRounding.return_label": "Output Number",
+	"NumberRounding.inputNumber.label": "Input Number",
+	"NumberRounding.digitsAfter.label": "Number of decimal points",
+	"NumberRounding.digitsAfter.description": "Must be between 0 and 16"
+}
